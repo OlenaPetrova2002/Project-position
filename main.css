@@ -30,5 +30,7 @@ body {
 
 .parent .child-1 {
   position: fixed;
-  
+  width: 350px;
+  top: 10;
+  margin: 0;
 }
